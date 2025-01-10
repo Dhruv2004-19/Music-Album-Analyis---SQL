@@ -23,5 +23,3 @@ Here, I wrote a query to find the customer who has spent the most money, which h
 -> Customer Spending on Artists:
 Find how much each customer has spent on artists.
 This query provides an analysis of total spending per customer, broken down by artist, offering a clear view of customer preferences and artist popularity based on their financial contributions.
-
--> Much More
